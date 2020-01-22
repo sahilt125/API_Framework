@@ -12,5 +12,4 @@
 /cucumber-report/
 /logger/
 *.json
-/output_response/
 /test-output/
