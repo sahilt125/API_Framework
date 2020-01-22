@@ -1,0 +1,16 @@
+/target/
+.idea
+*.iml
+/lib/
+/scripts/
+/data/
+*node.lock
+.classpath
+.project
+.settings/
+.DS_Store
+/cucumber-report/
+/logger/
+*.json
+/output_response/
+/test-output/
